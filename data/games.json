@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Mystic Quest",
+    "genre": "RPG",
+    "releaseYear": 1992,
+    "description": "A turn-based adventure in a haunted kingdom.",
+    "tags": ["singleplayer","fantasy","JRPG"]
+  },
+  {
+    "id": 2,
+    "title": "Star Racer",
+    "genre": "Racing",
+    "releaseYear": 1998,
+    "description": "High-speed interstellar circuits.",
+    "tags": ["multiplayer","arcade","sci-fi"]
+  },
+  {
+    "id": 3,
+    "title": "Dungeon Delver",
+    "genre": "RPG",
+    "releaseYear": 2001,
+    "description": "Co-op dungeon crawling.",
+    "tags": ["multiplayer","fantasy","co-op"]
+  }
+]
