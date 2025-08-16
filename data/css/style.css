@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+  padding: 1rem;
+}
+
+#tagFilters label {
+  margin-right: 1rem;
+  cursor: pointer;
+}
+
+#results li {
+  margin-bottom: 1.5rem;
+}
